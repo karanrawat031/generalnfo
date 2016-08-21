@@ -1,0 +1,20 @@
+{
+  "name": "generalnfo",
+  "version": "1.0.0",
+  "description": "GeneralInfo",
+  "engines":{
+      "node":"4.4.2",
+      "npm":"2.14.7"
+    },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "karanrawat031",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
+}
